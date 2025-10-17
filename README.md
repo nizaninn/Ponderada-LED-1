@@ -22,11 +22,15 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 - Observe o LED interno piscando conforme o tempo definido no delay.
   
 *Código:*
+[(Clique aqui para ver a imagem)](https://drive.google.com/file/d/1WHKURspqDho4qbmVEQxuIOZcpgebYO6X/view?usp=sharing)
+
 
 *LED interno acesso:*  
+[(Clique aqui para ver a imagem)](https://drive.google.com/file/d/1MdupAiECvXivs9LkE5WP5ZnoDskdqnNz/view?usp=sharing)
 
 
 *LED interno apagado:*  
+[(Clique aqui para ver a imagem)](https://drive.google.com/file/d/1rm1bDYRCX5ixvYLM4HCwS3Tcv992ERTt/view?usp=sharing)
 
 *Vídeo de demonstração:*  
 [(Clique aqui para ver o vídeo)](https://drive.google.com/file/d/14J4JPs8piSadmOHkiO8YieosZoITQ7t6/view?usp=sharing)
