@@ -37,7 +37,7 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 
 ## Parte 2 - LED Externo
 
-Para aprofundar o aprendizado, adicionamos um LED externo ao projeto. Ele será controlado pelo Arduino usando um pino digital (ex.: pino 6), utilizando um resistor para proteger o LED.
+Para aprofundar o aprendizado, adicionamos um LED externo ao projeto. Ele será controlado pelo Arduino usando um pino digital (ex.: pino 10), utilizando um resistor para proteger o LED.
 
 *Componentes necessários:*
 - Arduino Uno;
@@ -50,7 +50,7 @@ Para aprofundar o aprendizado, adicionamos um LED externo ao projeto. Ele será 
 - Conecte o terminal positivo (ânodo) do LED à linha correspondente ao pino 6 do Arduino na protoboard.
 - Conecte o terminal negativo (cátodo) do LED ao resistor.
 - Conecte o outro terminal do resistor ao GND do Arduino.
-- No Arduino IDE, configure o pino digital 6 como saída e faça o LED piscar.
+- No Arduino IDE, configure o pino digital 10 como saída e faça o LED piscar.
 - Faça o upload do código para o Arduino.
 - Observe o LED externo piscando junto com ou independente do LED interno.
 
