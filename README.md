@@ -22,27 +22,11 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 - Observe o LED interno piscando conforme o tempo definido no delay.
   
 *Código:*
-<div align="center">
-  <img src="![apagado](https://github.com/user-attachments/assets/5129a2d5-9cca-428b-b845-4682067567d0)
-" alt="Imagem led apagado" width="80%">
-  <br>
-</div>
 
 *LED interno acesso:*  
-<div align="center">
-  
-  <sub>Figura 2 - Canvas da proposta de valor</sub>  
-  
-  <img src="../assets/negocios/modelo_crisp.png" alt="Imagem do Canvas da Proposta de Valor" width="80%">
-  <br>
-  <sup>Fonte: produzido pelo grupo (Ceraza)</sup>
+
 
 *LED interno apagado:*  
-<div align="center">
-  <img src="![apagado](https://github.com/user-attachments/assets/5129a2d5-9cca-428b-b845-4682067567d0)
-" alt="Imagem led apagado" width="80%">
-  <br>
-</div>
 
 *Vídeo de demonstração:*  
 [(Clique aqui para ver o vídeo)](https://drive.google.com/file/d/14J4JPs8piSadmOHkiO8YieosZoITQ7t6/view?usp=sharing)
